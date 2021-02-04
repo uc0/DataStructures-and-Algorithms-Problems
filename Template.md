@@ -6,9 +6,18 @@
 
 #### 	Example
 
-- 
+- **[input]**
 
+  ```
+  
+  ```
 
+- **[output]**
+
+  ```
+  
+  
+  ```
 
 
 #### 	Input/Output
@@ -21,7 +30,7 @@
 
   
 
-## Solutions
+## My Solutions
 
 ##### python3
 
@@ -45,4 +54,11 @@ C++ code
 
 
 
-...
+## Other's Solutions
+
+##### python3
+
+```python
+
+```
+
