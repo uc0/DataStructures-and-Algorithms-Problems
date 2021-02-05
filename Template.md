@@ -32,7 +32,7 @@
 
 ## My Solutions
 
-##### python3
+##### python
 
 ```python
 python code1
@@ -56,7 +56,7 @@ C++ code
 
 ## Other's Solutions
 
-##### python3
+##### python
 
 ```python
 
