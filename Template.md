@@ -1,4 +1,4 @@
-# #N [Problem Name]
+# [Problem Name]
 
 ## Problem
 
