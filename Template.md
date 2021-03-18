@@ -6,6 +6,8 @@
 
 
 
+
+
 #### 	Example
 
 - **[input]**
@@ -23,6 +25,8 @@
 
 
 
+
+
 #### 	Input/Output
 
 - **[input]**
@@ -31,7 +35,10 @@
 
 - **[output]**
 
-  
+
+
+
+
 
 ## My Solutions
 
@@ -39,12 +46,6 @@
 
 ```python
 python code1
-```
-
-
-
-```python
-python code2
 ```
 
 
